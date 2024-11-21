@@ -1,4 +1,4 @@
-# NetzDG on Twitter: a study of the German anti-hate speech law
+# NetzDG on Twitter: a study of debates on the German anti-hate speech law
 
 This repository for NetzDG project consists of notebooks written in Python to perform the following tasks on the data:
 1. NetzDG_Analyser: Generates a list of n-grams (unigrams, bigrams...). You can search for terms mentioned by particular users or clusters; or by all accounts included in the dataset. It also allows for temporal analysis, filtering texts by date of publication.
